@@ -1,4 +1,3 @@
-
 // 1. Alert these following (individually):
 // I. First Name
 // II. Last Name
@@ -24,7 +23,6 @@
 // ----Answer-----------
 // alert ("Salam! Pakistan");
 
-
 // --------Chapter 2 (Variables for string)---------------
 
 // 1. Declare any variable in the camelCase format?
@@ -49,6 +47,38 @@
 
 // alert(teamName);
 
+// 4. This statement has already been coded. var bestMan = "Charlie";
+// Assign the variable a new string.
+
+// ----Answer-----------
+// var bestMan = "charlie";
+// var secBestman = "Born";
+
+// console.log(bestMan + " " + secBestman);
+
+// --------Chapter 3 (Variables for numbers)---------------
+
+// 1. Declare a variable “caseQty”
+
+// ----Answer-----------
+// var caseQty;
+
+// 2. Assign to the variable caseQty, which has already been declared,
+// the value 144.
+
+// ----Answer-----------
+// var caseQty;
+// caseQty = 144
+
+// console.log('Value' + " " + caseQty);
+
+// 3. Rewrite this statement so the variable can be used in a math
+// operation. var num = "9";
+
+// ----Answer-----------
+// var num = 9;
+// console.log(num);
+
 // 4. In one statement declare a variable. In a second statement assign
 // it the sum of 2 numbers.
 
@@ -56,3 +86,31 @@
 // var oneStatement;
 // oneStatement = 2;
 // console.log('Sum of' + ' ' + oneStatement);
+
+// 5. What is the value of orderTotal?
+// var merchTotal = 100;
+// var shippingCharge = 10;
+// var orderTotal = merchTotal + shippingCharge;
+// Try it yourself.
+
+// ----Answer-----------
+// var merchTotal = 100;
+// var shippingCharge = 10;
+// var orderTotal = merchTotal + shippingCharge;
+
+// console.log(orderTotal);
+
+// 6. In the first statement declare a variable and assign it a number. In
+// the second statement, change the value of the variable by adding
+// it together with a number.
+
+// ----Answer-----------
+// var firstStatement = 50;
+// var secondStatement = 10;
+// var total = firstStatement + secondStatement;
+// firstStatement = total;
+
+// console.log(total);
+// console.log(firstStatement);
+// console.log(total + firstStatement);
+
