@@ -158,3 +158,49 @@
 // var my-variable; // Variable name contains a hyphen.
 // var @if // Variable name starts with a digit.
 // var my variable; // Variable name contains a space.
+
+// --------Chapter 5 (Math Expression I)---------------
+// 1. What is the name and symbol of the arithmetic operator that
+// gives you the remainder when one number is divided by another?
+
+// ----Answer-----------
+// The symbol for the remainder operator is "%". You can use it like this:
+
+// var remainder = 16 % 5; // remainder will be 1
+
+// 2. What is the value of num?
+// var num = 20 % 6;
+
+// ----Answer-----------
+// var num = 20 % 6;
+// console.log(num);
+
+// 3. In a single statement, declare the variable largeNum and assign it
+// the result of 1,000 multiplied by 2,000.
+
+// ----Answer-----------
+// var largeNum = 1000 * 2000;
+
+// console.log(largeNum);
+
+// 4. Assign to a variable the value represented by one variable
+// subtracted from the value represented by another variable
+
+// ----Answer-----------
+// variable1 = 25;
+// variable2 = 5;
+
+// console.log(variable1-variable2);
+
+// 5. Assign to a variable the remainder when one number is divided by
+// another. The variable hasn't been declared beforehand. Make up
+// the variable name.
+
+// var remainder;
+
+// var numOne = 32;
+// var numTwo = 3;
+
+// remainder = 32 % 3;
+
+// console.log(remainder);
