@@ -196,6 +196,7 @@
 // another. The variable hasn't been declared beforehand. Make up
 // the variable name.
 
+// ----Answer-----------
 // var remainder;
 
 // var numOne = 32;
@@ -204,3 +205,11 @@
 // remainder = 32 % 3;
 
 // console.log(remainder);
+
+// 6. Code an alert that displays the result of a multiplication on 2
+// numbers.
+
+// ----Answer-----------
+var multiplication = 2 * 2;
+
+alert("The result of multiplication on :" + " " + multiplication);
