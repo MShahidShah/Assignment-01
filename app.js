@@ -1,3 +1,4 @@
+// --------Chapter 1 (Alerts)---------------
 // 1. Alert these following (individually):
 // I. First Name
 // II. Last Name
@@ -24,7 +25,6 @@
 // alert ("Salam! Pakistan");
 
 // --------Chapter 2 (Variables for string)---------------
-
 // 1. Declare any variable in the camelCase format?
 
 // ----Answer-----------
@@ -57,7 +57,6 @@
 // console.log(bestMan + " " + secBestman);
 
 // --------Chapter 3 (Variables for numbers)---------------
-
 // 1. Declare a variable “caseQty”
 
 // ----Answer-----------
@@ -114,3 +113,48 @@
 // console.log(firstStatement);
 // console.log(total + firstStatement);
 
+// --------Chapter 4 (Variable names Legal and Illegal)---------------
+// 1. Correct this statement.
+// var product cost = 3.45;
+
+// ----Answer-----------
+// var productCost = 3.45;
+
+// 2. Rewrite this using camelCase.
+// var Nameofband;
+
+// ----Answer-----------
+// var nameofBand;
+
+// 3. In a single statement declare a legally-named variable and assign a
+// number to it.
+
+// ----Answer-----------
+
+// var myNumber = 62;
+
+// 4. Declare a variable that is a combination of your first and last
+// names. Use camelCase.
+
+// ----Answer-----------
+// var shahidYusuf;
+
+// 5. List the legal and Illegal Variables.
+
+// ----Answer-----------
+// Examples to legal and illegal variable Names:
+
+// Legal Variable Names:
+
+// var myVariable;
+// var _privateVariable;
+// var $price;
+// var camelCaseVariable;
+// var thisIsAReallyLongVariableName;
+
+// Illegal Variable Names:
+
+// var 123var; // Variable name starts with a digit.
+// var my-variable; // Variable name contains a hyphen.
+// var @if // Variable name starts with a digit.
+// var my variable; // Variable name contains a space.
